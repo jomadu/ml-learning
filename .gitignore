@@ -1,2 +1,5 @@
 .vscode/*
 env/*
+udemy/datasets/test_image/*
+udemy/datasets/test_set/*
+udemy/datasets/training_set/*
